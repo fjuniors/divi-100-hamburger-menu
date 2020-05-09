@@ -1,6 +1,6 @@
 #### Before submitting your issue, please ensure the following:
 * [ ] You have reproduced the issue in the latest version of this plugin.
-* [ ] You searched Github for the issue and found no reports of the issue currently open.
+* [x] You searched Github for the issue and found no reports of the issue currently open.
 * [ ] You properly formated the issue title – `Scope :: One sentence to describe the issue`.
 * [ ] You have provided a detailed description of the issue.
 * [ ] You have provided any/all relevant information: screenshot, screencast.
@@ -11,7 +11,7 @@ _Warning: Please make sure that your issue is detailed, otherwise the ticket wil
 -
 
 ### Problem:
-Replace this with a description of the issue you are reporting. Be sure to explain expected results vs. actual results when it might not be obvious to those who will read your report.
+How to manually install the plugin, the server do not let me install .zip files
 
 
 ### Steps To Reproduce:
@@ -24,16 +24,16 @@ Replace this with a description of the issue you are reporting. Be sure to expla
 
 ### Additional Information:
 
-**Divi Version**:
+**Divi Version**: latest
 
-**Child Theme**:
+**Child Theme**:yes
 
-**Device**:
+**Device**:notebook
 
-**Operating System**:
+**Operating System**:windows 10
 
-**Browser**:
+**Browser**: chrome
 
-**Screen Resolution**:
+**Screen Resolution**:1920x1080
 
 **Reference**:
